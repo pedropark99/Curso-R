@@ -1,21 +1,21 @@
 Id_consumidor;Nome_consumidor;cidade_atendimento;nota_atendimento;Id_vendedor
-3002;Nick Rimando;Belo Horizonte;100;5001
-3007;Davi Motta;Belo Horizonte;200;5001
-3005;Grazi Massafera;Brasília;200;5002
-3008;Juliano Verbeta;São Paulo;300;5002
-3004;Fabio Luiz;São Paulo;300;5006
-3009;Geoffrey Maldoso;Rio de Janeiro;100;5003
-3003;José da Vila;Rio de Janeiro;200;5007
+3002;Nick Rimando;Belo Horizonte;10;5001
+3007;Davi Motta;Belo Horizonte;8.5;5001
+3005;Grazi Massafera;Brasília;8.2;5002
+3008;Juliano Verbeta;São Paulo;6.5;5002
+3004;Fabio Luiz;São Paulo;;5006
+3009;Geoffrey Maldoso;Rio de Janeiro;9.1;5003
+3003;José da Vila;Rio de Janeiro;8.2;5007
 3001;Bruno Estevans;São Paulo;;5005
-3010;Márcio H. Soares;São Paulo;300;5006
-3014;MC Vitinho;Rio de Janeiro;100;5003
-3011;Quesnay Ressuscitou;Rio de Janeiro;200;5007
+3010;Márcio H. Soares;São Paulo;7.6;5006
+3014;MC Vitinho;Rio de Janeiro;7.7;5003
+3011;Quesnay Ressuscitou;Rio de Janeiro;8.9;5007
 3012;Hestér Liana;São Paulo;;5005
-3013;Fabio Luiz;São Paulo;300;5006
-3017;Bernardo H.;Rio de Janeiro;100;5003
-3018;Gustavo Soares;São Paulo;300;5006
-3019;Mandante Mandado;Rio de Janeiro;100;5003
-3016;Muriel Fernandes;Rio de Janeiro;200;5007
+3013;Fabio Luiz;São Paulo;10;5006
+3017;Bernardo H.;Rio de Janeiro;10;5003
+3018;Gustavo Soares;São Paulo;9.3;5006
+3019;Mandante Mandado;Rio de Janeiro;6.6;5003
+3016;Muriel Fernandes;Rio de Janeiro;8.1;5007
 3015;Pablo Henrique;São Paulo;;5005
 3014;Pedro Duarte;Belo Horizonte;8.1;5007
 3020;Mirian Martins;Brasília;;5005
