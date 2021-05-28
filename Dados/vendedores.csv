@@ -1,4 +1,4 @@
-Id_vendedor;Nome_vendedor;Cidade;Commissao
+Id_vendedor;Nome_vendedor;Cidade_residencia;Commissao
 5001;Jaiminho da Cerveja;Brasília;5
 5002;Natália Vista;São Paulo;5
 5005;Pablo Osmar;Belo Horizonte;25

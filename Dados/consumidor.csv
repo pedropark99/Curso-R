@@ -1,4 +1,4 @@
-Id_consumidor;Nome_consumidor;cidade_atendimento;nota_atendimento;Id_vendedor
+Id_consumidor;Nome_consumidor;Cidade_atendimento;Nota_atendimento;Id_vendedor
 3002;Nick Rimando;Belo Horizonte;10;5001
 3007;Davi Motta;Belo Horizonte;8,5;5001
 3005;Grazi Massafera;Brasília;8,2;5002
