@@ -1,0 +1,6 @@
+user_id;datetime;event_type;event_value
+1;2023-07-06T11:15:49Z;page-navigation;"{""type"": ""page-navigation"", ""dest"": ""/transport/select""}"
+1;2023-07-06T11:18:21Z;select-option;"{""type"": ""select-option"", ""menu-id"": ""select_transport_type"", ""option-selected"": ""Taxi""}"
+1;2023-07-06T11:20:08Z;sent-input;"{""type"": ""sent-input"", ""data"": {""transport-type"": ""Taxi"", ""dest"": ""Confins International Airport"", ""origin"": ""Amazonas Avenue, 1556""}}"
+3;2023-07-06T12:25:35Z;page-navigation;"{""type"": ""page-navigation"", ""dest"": ""/transport/select""}"
+3;2023-07-06T12:27:52Z;press-button;"{""type"": ""press-button"", ""button-id"": ""select_transport_more_details_button""}"
