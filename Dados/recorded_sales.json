@@ -1,0 +1,1 @@
+{"sales": [{"sales_id":[1],"timestamp":["2023-04-07 12:32:09"],"product_id":[1432],"value":[32.65],"currency":["R$"],"bay_id":[15]},{"sales_id":[2],"timestamp":["2023-04-07 12:56:12"],"product_id":[1035],"value":[21.5],"currency":["R$"],"bay_id":[16]},{"sales_id":[3],"timestamp":["2023-04-07 14:18:45"],"product_id":[1119],"value":[14.38],"currency":["R$"],"bay_id":[15]}]}
